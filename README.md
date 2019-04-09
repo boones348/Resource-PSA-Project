@@ -18,3 +18,5 @@ The current documents show a couple of examples of how data gets updated.  One m
 * Login to GitHub
 * Add your file update under your named branch. If your named branch is not there, create a new branch.
 * Merge data files via a pull request.
+
+[![DOI](https://zenodo.org/badge/180350035.svg)](https://zenodo.org/badge/latestdoi/180350035)
